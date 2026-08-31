@@ -1,0 +1,59 @@
+{
+  "students": [
+    {
+      "student_id": 101,
+      "name": "Aarav Sharma",
+      "age": 20,
+      "gender": "Male",
+      "course": "Computer Science",
+      "year": 2,
+      "email": "aarav.sharma@example.com",
+      "city": "Hyderabad",
+      "marks": 85
+    },
+    {
+      "student_id": 102,
+      "name": "Priya Patel",
+      "age": 21,
+      "gender": "Female",
+      "course": "Information Technology",
+      "year": 3,
+      "email": "priya.patel@example.com",
+      "city": "Mumbai",
+      "marks": 92
+    },
+    {
+      "student_id": 103,
+      "name": "Rahul Verma",
+      "age": 19,
+      "gender": "Male",
+      "course": "Computer Science",
+      "year": 1,
+      "email": "rahul.verma@example.com",
+      "city": "Bangalore",
+      "marks": 78
+    },
+    {
+      "student_id": 104,
+      "name": "Sneha Reddy",
+      "age": 22,
+      "gender": "Female",
+      "course": "Data Science",
+      "year": 4,
+      "email": "sneha.reddy@example.com",
+      "city": "Hyderabad",
+      "marks": 88
+    },
+    {
+      "student_id": 105,
+      "name": "Karan Singh",
+      "age": 20,
+      "gender": "Male",
+      "course": "Mechanical Engineering",
+      "year": 2,
+      "email": "karan.singh@example.com",
+      "city": "Pune",
+      "marks": 75
+    }
+  ]
+}

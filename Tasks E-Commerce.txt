@@ -1,0 +1,25 @@
+Tasks E-Commerce
+
+
+~104 exact duplicate rows Random rows Remove Duplicates
+Nulls Description, CategoryName, SupplierAddress, CustomerPhone, CustomerEmail, Discount, FinalProductPrice, OrderAddress,
+PaymentMethod
+Fill Down, Replace Values, conditional handling
+Mixed casing/whitespace
+CustomerName, SupplierName, ProductName (UPPER, lower, extra spaces )
+Trim, Clean, Capitalize Each Word
+Mixed boolean formats
+isDelivered, isReturned — mix of True/False, Yes/No, 1/0, "TRUE"/"FALSE" text
+Standardize via conditional replace
+Mixed date formats
+OrderDate — DD-MM-YYYY, MM/DD/YYYY, YYYY/MM/DD, YYYY-MM-DD all mixed as text
+Parse to proper Date type
+Inconsistent spellings
+PaymentMethod ("Credit Card" / "credit card" / "CREDIT CARD"), Country ("USA"/"United States"/"U.S.")
+Replace Values / standardize lists
+Bad data
+Some rows with Quantity = 0, some with Discount = -5
+Filtering/data validation practice
+Missing computed values
+FinalProductPrice and Discount sometimes blank
+Rebuild as a custom column: (ProductPrice × Quantity) − Discount

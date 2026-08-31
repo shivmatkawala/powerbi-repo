@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<services>
+    <service>
+        <name>Web Development</name>
+        <description>We build modern, responsive, and high-performance websites.</description>
+        <price currency="INR">25000</price>
+    </service>
+
+    <service>
+        <name>Mobile App Development</name>
+        <description>We develop Android and iOS applications for businesses.</description>
+        <price currency="INR">50000</price>
+    </service>
+
+    <service>
+        <name>Software Development</name>
+        <description>We create customized software solutions based on business requirements.</description>
+        <price currency="INR">75000</price>
+    </service>
+
+    <service>
+        <name>Digital Marketing</name>
+        <description>We help businesses grow through SEO, social media, and online marketing.</description>
+        <price currency="INR">20000</price>
+    </service>
+
+    <service>
+        <name>Data Analytics</name>
+        <description>We analyze business data and provide useful insights for better decisions.</description>
+        <price currency="INR">30000</price>
+    </service>
+</services>

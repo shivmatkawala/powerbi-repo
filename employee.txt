@@ -1,0 +1,21 @@
+EmployeeID,FirstName,LastName,Age,Gender,Department,JobTitle,Salary,City,JoiningDate,Email
+EMP001,Amit,Sharma,28,Male,Engineering,Software Engineer,750000,Hyderabad,2022-03-15,amit.sharma@example.com
+EMP002,Priya,Patel,32,Female,Human Resources,HR Manager,900000,Mumbai,2020-07-10,priya.patel@example.com
+EMP003,Rahul,Verma,26,Male,Engineering,Junior Developer,550000,Bangalore,2023-01-20,rahul.verma@example.com
+EMP004,Neha,Singh,29,Female,Finance,Financial Analyst,700000,Pune,2021-09-05,neha.singh@example.com
+EMP005,Vikram,Reddy,35,Male,Management,Project Manager,1200000,Hyderabad,2019-06-12,vikram.reddy@example.com
+EMP006,Anjali,Gupta,27,Female,Marketing,Marketing Executive,600000,Delhi,2022-11-18,anjali.gupta@example.com
+EMP007,Rohit,Mehta,31,Male,Sales,Sales Manager,950000,Mumbai,2020-02-25,rohit.mehta@example.com
+EMP008,Sneha,Iyer,25,Female,Engineering,Data Analyst,650000,Chennai,2023-04-10,sneha.iyer@example.com
+EMP009,Karan,Joshi,33,Male,Finance,Accountant,720000,Pune,2021-01-15,karan.joshi@example.com
+EMP010,Pooja,Nair,30,Female,Human Resources,Recruiter,580000,Bangalore,2022-06-30,pooja.nair@example.com
+EMP011,Arjun,Kapoor,29,Male,Engineering,Software Engineer,800000,Delhi,2021-08-22,arjun.kapoor@example.com
+EMP012,Kavita,Desai,34,Female,Marketing,Marketing Manager,1050000,Mumbai,2019-12-05,kavita.desai@example.com
+EMP013,Suresh,Kumar,38,Male,Management,Operations Manager,1300000,Hyderabad,2018-05-17,suresh.kumar@example.com
+EMP014,Meera,Shah,26,Female,Sales,Sales Executive,500000,Pune,2023-02-14,meera.shah@example.com
+EMP015,Aditya,Rao,28,Male,Engineering,QA Engineer,680000,Bangalore,2021-10-08,aditya.rao@example.com
+EMP016,Divya,Menon,31,Female,Finance,Senior Financial Analyst,950000,Chennai,2020-03-19,divya.menon@example.com
+EMP017,Raj,Malhotra,36,Male,Sales,Regional Manager,1150000,Delhi,2019-07-27,raj.malhotra@example.com
+EMP018,Nisha,Agarwal,27,Female,Human Resources,HR Executive,520000,Mumbai,2022-09-12,nisha.agarwal@example.com
+EMP019,Manish,Jain,30,Male,Engineering,DevOps Engineer,850000,Hyderabad,2020-11-03,manish.jain@example.com
+EMP020,Aarti,Chopra,29,Female,Marketing,Content Specialist,620000,Pune,2021-04-25,aarti.chopra@example.com
